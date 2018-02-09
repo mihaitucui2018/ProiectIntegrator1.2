@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proiect Integrator</string>
+
+    <!-- Texte Editor-->
+    <string name="nume_editor">Nume</string>
+    <string name="COD_editor">COD</string>
+    <string name="Save_editor">Salveaza</string>
+
+
+</resources>
